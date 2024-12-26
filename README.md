@@ -80,9 +80,8 @@ You need to have the bluetooth component configured and working in Home Assistan
 
 Add this repo to HACS as a custom repo.  Click through:
 
-- HACS -> Integrations -> Top right menu -> Custom Repositories
-- Paste the Github URL to this repo in to the Repository box
-- Choose category `Integration`
+- Go to the HACS store
+- search for Keepsmile LED
 - Click Add
 - Restart Home Assistant
 - BJ_LED devices should start to appear in your Integrations page
